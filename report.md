@@ -12,13 +12,22 @@ Each page is split into 500-word chunks with 50-word overlap.
 This preserves context across chunk boundaries while keeping chunks
 small enough for accurate retrieval.
 
+
 ## Metrics
-| Metric             | Value  |
-|--------------------|--------|
-| Total Questions    | 50     |
-| Retrieval Hit Rate | XX%    |
-| Refusal Rate       | XX%    |
-| Hallucination Rate | XX%    |
+| Metric            | Value  |
+|-------------------|--------|
+| Total Questions   | 50     |
+| Retrieval Hit Rate| 58%    |
+| Refusal Rate      | 40%    |
+| Hallucination Rate| 2%     |
+
+
+## Analysis
+- 29 questions were answered correctly with supporting chunks
+- 20 questions were refused — mostly out-of-scope or topics 
+  not covered in the provided PDFs
+- Only 1 hallucination detected — very strong hallucination control
+- The strict prompt design successfully prevented outside knowledge use
 
 ## 5 Best Answers
 Pick 5 from eval_results.json where the answer is accurate and well cited.
