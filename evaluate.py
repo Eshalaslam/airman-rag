@@ -29,7 +29,7 @@ for q in questions:
             "chunk_count": len(chunks),
             "retrieval_hit": has_chunks and not refused,
         })
-        time.sleep(1)  # avoid rate limiting
+        time.sleep(3)  # avoid rate limiting
     except Exception as e:
         print(f"  ERROR: {e}")
         results.append({

@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from hybrid_query import ask_hybrid
 from pydantic import BaseModel
 from query import ask
 import subprocess
@@ -28,4 +29,8 @@ def ingest():
 @app.post("/ask")
 def ask_question(request: AskRequest):
     result = ask(request.question, debug=request.debug)
+    return result
+@app.post("/ask/hybrid")
+def ask_hybrid_question(request: AskRequest):
+    result = ask_hybrid(request.question, debug=request.debug)
     return result

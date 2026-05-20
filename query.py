@@ -38,11 +38,10 @@ def ask(question, debug=False):
         for c in retrieved
     ])
 
-    prompt = f"""You are an aviation expert assistant. Answer ONLY using the context below.
-If the answer is not found in the context, respond exactly with:
+    prompt = f"""You are an aviation expert assistant. Answer the question using ONLY the context below.
+Be specific and detailed in your answer.
+Only if the answer is truly not present in the context at all, respond exactly with:
 "This information is not available in the provided document(s)."
-
-Do NOT use any outside knowledge. Do NOT guess.
 
 Context:
 {context}
@@ -52,7 +51,7 @@ Question: {question}
 Answer (cite the source document and page number):"""
 
     response = groq_client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="llama-3.1-8b-instant",
         messages=[{"role": "user", "content": prompt}]
 )
     answer = response.choices[0].message.content.strip()

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "type": "factual",
+    "question": "What is a flight level referenced to?",
+    "answer": "A flight level is referenced to a specific pressure datum, 1013.2 hPa (also mentioned as 1013 hPa in another document). \n\nSource: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 154 \n\nand \n\nSource: Meteorology full book.pdf, Page 137",
+    "citations": [
+      "6-mass-and-balance-and-performance-2014.pdf (Page 243)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 139)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 138)",
+      "Meteorology full book.pdf (Page 137)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 154)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 2,
+    "type": "factual",
+    "question": "What happens to the ASI if both pitot and static sources are blocked?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Instruments.pdf (Page 18)",
+      "Instruments.pdf (Page 92)",
+      "Instruments.pdf (Page 569)",
+      "Instruments.pdf (Page 53)",
+      "Instruments.pdf (Page 52)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 3,
+    "type": "factual",
+    "question": "In how many states can an aircraft be registered simultaneously?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 241)",
+      "Instruments.pdf (Page 507)",
+      "Instruments.pdf (Page 386)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 226)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 41)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 4,
+    "type": "factual",
+    "question": "Which document confirms an aircraft complies with approved design and maintenance standards?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Instruments.pdf (Page 545)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 377)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 26)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 214)",
+      "Instruments.pdf (Page 554)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 5,
+    "type": "factual",
+    "question": "When two aircraft converge at the same altitude, which one gives way?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "10-General-Navigation-2014 (1).pdf (Page 264)",
+      "10-General-Navigation-2014 (1).pdf (Page 248)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 455)",
+      "10-General-Navigation-2014 (1).pdf (Page 569)",
+      "10-General-Navigation-2014 (1).pdf (Page 252)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 6,
+    "type": "factual",
+    "question": "Which airspace class permits IFR and VFR but provides ATC separation only to IFR?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 235)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 160)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 238)",
+      "11-radio-navigation-2014.pdf (Page 337)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 236)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 7,
+    "type": "factual",
+    "question": "What is the primary objective of Air Traffic Services?",
+    "answer": "The primary objective of Air Traffic Services is to:\n\n1. Prevent collisions between aircraft.\n2. Prevent collisions on the manoeuvring area between aircraft and obstructions.\n3. Expedit and maintain an orderly flow of air traffic.\n\n(Source: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 160)",
+    "citations": [
+      "Instruments.pdf (Page 653)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 160)",
+      "Instruments.pdf (Page 321)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 23)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 231)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 8,
+    "type": "factual",
+    "question": "Why does temperature normally decrease with height in the troposphere?",
+    "answer": "Temperature normally decreases with height in the troposphere due to the \"lapse rate.\" This is explained on Page 66 of the Meteorology full book.pdf. \n\nAccording to Page 66, \"Because of the troposphere's virtual transparency to insolation, it is in fact heated (by long wave IR) from the surface upwards. Thus as we move further and further from the surface we would expect the heating effects to diminish.\" Furthermore, it states, \"The rate at which temperature falls with an increase in height is called the Lapse Rate. An ideal uniform atmosphere would show a constant lapse rate rather like the ISA, which is 0.65\u00b0C/100 m (1.98\u00b0C (2\u00b0) per 1000 ft.)\"",
+    "citations": [
+      "Meteorology full book.pdf (Page 11)",
+      "Meteorology full book.pdf (Page 68)",
+      "Meteorology full book.pdf (Page 66)",
+      "Meteorology full book.pdf (Page 38)",
+      "Meteorology full book.pdf (Page 12)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 9,
+    "type": "factual",
+    "question": "What is the definition of dew point?",
+    "answer": "The definition of dew point is stated in the context as follows: \n\n1. Ahead of a warm front (Meteorology full book.pdf, Page 320):\n   - \"Dew Point - Steady low.\"\n\n2. At the warm front (Meteorology full book.pdf, Page 320):\n   - \"Dew Point - Sudden rise.\"\n\n3. In the warm sector (Meteorology full book.pdf, Page 321):\n   - \"Dew Point - Steady,\"",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 138)",
+      "Meteorology full book.pdf (Page 320)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 154)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 133)",
+      "Meteorology full book.pdf (Page 321)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 10,
+    "type": "factual",
+    "question": "At what rate does an air parcel cool when lifted dry adiabatically?",
+    "answer": "The rate at which an air parcel cools when lifted dry adiabatically is called the Dry Adiabatic Lapse Rate (DALR). \n\nAccording to the source document, page 89: \"The Dry Adiabatic Lapse Rate - DALR. . . . . . . . . . . . . . . . . . . . . . . . . . . . 89\"\n\nUnfortunately, the page 89 content for actual lapse rate is not present. However, from page 100 and the figure mentioned on page 98, the value can be indirectly derived.\n\nThe same situation described in the absolute stability part has the parcel of air blowing up the hill cooling adiabatically to 17\u00b0C from a certain temperature. We know this lapse rate. \n\nFrom page 98, the environmental temperature at 300 m is 18.8\u00b0C, and the environmental lapse rate is 0.4 \u00b0C/100 m. To find the value of the DALR: the parcel temperature after the ascent is 17\u00b0C. The lapse rate for this situation is the \u0394T / \u0394H. \n\nGiven, the environmental lapse rate is 0.4 \u00b0C/100 m; \nEnvironmental temperature at 300 m = 18.8 \u00b0C.\nEnvironmental temperature at 0 m =  18.8+ (300*0.4) \u00b0C \nELR = 0.4 \u00b0C/100 m\nTherefore, temperature difference (\u0394T) between environmental temperature at 300 m (18.8 \u00b0C) and 0 m is  18.8 + 300*0.4 = 23.4 \u00b0C \nand the height difference (\u0394H) is  300 m\nThe dry adiabatic lapse rate of 9.8 \u00b0C/100 m can then be calculated as:\n\nDALR = \u0394T / \u0394H \n= 23.4 \u00b0C/ 300 m \nHowever, the value is more typically presented in \u00b0C per 100 m of descent or ascent. So 9.8 \u00b0C is indeed the more commonly described value.",
+    "citations": [
+      "Meteorology full book.pdf (Page 106)",
+      "Meteorology full book.pdf (Page 646)",
+      "Meteorology full book.pdf (Page 98)",
+      "Meteorology full book.pdf (Page 93)",
+      "Meteorology full book.pdf (Page 100)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 11,
+    "type": "factual",
+    "question": "What is the Point of No Return most sensitive to?",
+    "answer": "This information is not available in the provided document(s). \n\nActually, there was a name change of the term to be Point of Safe Return (PSR) in the text; this implies that we have to use this information to infer about the Point of No Return.\n\nSince the name has been changed to the Point of Safe Return (PSR), we are supposed to assume its sensitivity properties are likely equivalent to those mentioned about the Point of Safe Return (PSR) itself from the source \"7-Flight-Planning-and-Monitoring-2014.pdf, Page 265.\"",
+    "citations": [
+      "6-mass-and-balance-and-performance-2014.pdf (Page 281)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 266)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 265)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 264)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 286)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 12,
+    "type": "factual",
+    "question": "When shall a missed approach be initiated?",
+    "answer": "A missed approach shall be initiated at or before the Missed Approach Point (MAPt) to ensure minimum obstacle clearance. \n\nSource: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 179",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 227)",
+      "Instruments.pdf (Page 497)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 163)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 178)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 179)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 13,
+    "type": "factual",
+    "question": "How does the scale of a Mercator chart change with latitude?",
+    "answer": "The scale of a Mercator chart expands away from the Equator. The scale expansion is proportional to the secant of the latitude. \n\n(Source: 10-General-Navigation-2014 (1).pdf, Page 315)",
+    "citations": [
+      "10-General-Navigation-2014 (1).pdf (Page 320)",
+      "10-General-Navigation-2014 (1).pdf (Page 301)",
+      "10-General-Navigation-2014 (1).pdf (Page 315)",
+      "10-General-Navigation-2014 (1).pdf (Page 314)",
+      "10-General-Navigation-2014 (1).pdf (Page 300)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 14,
+    "type": "factual",
+    "question": "What can a Commercial Pilot Licence holder do?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 2)",
+      "Instruments.pdf (Page 2)",
+      "11-radio-navigation-2014.pdf (Page 2)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 2)",
+      "10-General-Navigation-2014 (1).pdf (Page 2)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 15,
+    "type": "factual",
+    "question": "What causes a sea breeze?",
+    "answer": "The cause of a sea breeze is a drift of air from over the land to over the sea at about 1000 ft due to the difference in pressure caused by the land heating quickly on a sunny day, particularly in an anticyclone with a light Pressure Gradient Force (PGF). This results in surface pressure over the land falling and surface pressure over the sea rising, causing a flow of air from sea to land. (Source: Meteorology full book.pdf, Page 167)",
+    "citations": [
+      "Meteorology full book.pdf (Page 112)",
+      "Meteorology full book.pdf (Page 168)",
+      "Meteorology full book.pdf (Page 167)",
+      "Meteorology full book.pdf (Page 170)",
+      "Meteorology full book.pdf (Page 169)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 16,
+    "type": "factual",
+    "question": "How many satellites does GNSS need for a 3D position fix?",
+    "answer": "According to the given context, in the 11-radio-navigation-2014.pdf document, specifically on Page 322, it is stated:\n\n\"A B XX C X 9 SECONDS 5 SECONDS 7 SECONDS Figure 18.16 A B X 6 SECONDS 4 SECONDS 8 SECONDS C Figure 18.17 The receiver has to correct the X, Y, Z coordinates and time to produce the fix. Since it has each element provided by each SV the receiver can set up 4 linear simultaneous equations each with 4 unknown quantities (X, Y, Z, and T) which it solves by iteration to remove the receiver time error, and hence, range errors. This means that the use of 4 SVs provides a 3D fix and an accurate time reference, i.e. a 4D fix, at the receiver.\"\n\nTherefore, the answer to the question \"How many satellites does GNSS need for a 3D position fix?\" is:\n\n4\n\n(11-radio-navigation-2014.pdf, Page 322)",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 318)",
+      "11-radio-navigation-2014.pdf (Page 328)",
+      "11-radio-navigation-2014.pdf (Page 310)",
+      "11-radio-navigation-2014.pdf (Page 357)",
+      "11-radio-navigation-2014.pdf (Page 322)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 17,
+    "type": "factual",
+    "question": "Which cloud type produces continuous precipitation?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Meteorology full book.pdf (Page 220)",
+      "Meteorology full book.pdf (Page 222)",
+      "Meteorology full book.pdf (Page 228)",
+      "Meteorology full book.pdf (Page 226)",
+      "Meteorology full book.pdf (Page 224)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 18,
+    "type": "factual",
+    "question": "What is the primary advantage of SSR over primary radar?",
+    "answer": "The primary advantage of SSR over primary radar is that it \"positively identifies an aircraft's primary response by displaying its code and call sign alongside.\" (Source: 11-radio-navigation-2014.pdf, Page 233)",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 353)",
+      "11-radio-navigation-2014.pdf (Page 233)",
+      "11-radio-navigation-2014.pdf (Page 231)",
+      "11-radio-navigation-2014.pdf (Page 244)",
+      "11-radio-navigation-2014.pdf (Page 232)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 19,
+    "type": "factual",
+    "question": "What is the Dry Adiabatic Lapse Rate?",
+    "answer": "The Dry Adiabatic Lapse Rate (DALR) is 5\u00b0C / 100 m. \n\n(Reference: Meteorology full book.pdf, Page 89)",
+    "citations": [
+      "Meteorology full book.pdf (Page 96)",
+      "Meteorology full book.pdf (Page 98)",
+      "Meteorology full book.pdf (Page 93)",
+      "Meteorology full book.pdf (Page 88)",
+      "Meteorology full book.pdf (Page 61)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 20,
+    "type": "factual",
+    "question": "What is the RVSM vertical separation between FL290 and FL410?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 95)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 187)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 139)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 304)",
+      "11-radio-navigation-2014.pdf (Page 282)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 21,
+    "type": "factual",
+    "question": "What does the ISA assume as the temperature lapse rate?",
+    "answer": "The ISA assumes a temperature lapse rate of 1.98\u00b0C (2\u00b0) per 1000 ft, as stated on page 68 of the Meteorology full book.pdf document.",
+    "citations": [
+      "Meteorology full book.pdf (Page 20)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 331)",
+      "Meteorology full book.pdf (Page 68)",
+      "Meteorology full book.pdf (Page 14)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 187)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 22,
+    "type": "factual",
+    "question": "What visibility restriction is caused by hygroscopic particles?",
+    "answer": "This phenomenon is caused by the presence of hygroscopic nucleii, which leads to the formation of mist and fog. \n\nAccording to the source document, Meteorology full book.pdf, Page 273: \"The presence of hygroscopic nucleii means that condensation is likely to take place at relative humidities of less than 100%, giving rise to the formation of mist and fog.\"",
+    "citations": [
+      "Meteorology full book.pdf (Page 273)",
+      "Meteorology full book.pdf (Page 283)",
+      "Meteorology full book.pdf (Page 279)",
+      "Meteorology full book.pdf (Page 272)",
+      "Meteorology full book.pdf (Page 261)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 23,
+    "type": "factual",
+    "question": "What is the primary objective of the Chicago Convention?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "6-mass-and-balance-and-performance-2014.pdf (Page 532)",
+      "Meteorology full book.pdf (Page 328)",
+      "Instruments.pdf (Page 376)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 23)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 335)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 24,
+    "type": "factual",
+    "question": "When does relative humidity increase?",
+    "answer": "After 1500 hrs, the temperature will start to fall and the maximum amount of water vapour the air can hold will fall, and thus the RH will increase. \n\n(Page 88 of Meteorology full book.pdf)",
+    "citations": [
+      "Meteorology full book.pdf (Page 82)",
+      "Meteorology full book.pdf (Page 89)",
+      "Meteorology full book.pdf (Page 84)",
+      "Meteorology full book.pdf (Page 86)",
+      "Meteorology full book.pdf (Page 88)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 25,
+    "type": "factual",
+    "question": "Which document contains permanent changes of long duration to aeronautical information?",
+    "answer": "NOTAM (NOTICE TO AIRMEN) contains information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations [Source: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 9]. Also, AIP Amendments, AIP Supplements or Aviation Information Circulars (AIC) will disseminate operationally significant information on changes, and these changes will also be announced by \"Trigger\" NOTAMS [Source: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 11].",
+    "citations": [
+      "Instruments.pdf (Page 545)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 244)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 11)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 9)",
+      "Instruments.pdf (Page 279)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 26,
+    "type": "factual",
+    "question": "What happens to CAS when an aircraft descends through an inversion at constant Mach?",
+    "answer": "According to [Source: Instruments.pdf, Page 98]:\n\n\"When descending below the tropopause under normal conditions (increasing temperature) at a constant CAS: \n\na. both TAS and mach number will decrease \nb. both TAS and mach number will increase \nc. the TAS will decrease and the mach number will increase \nd. the TAS will increase and the mach number will decrease\"\n\nThe correct answer is \"d. the TAS will increase and the mach number will decrease\" but this is not exactly answering our question.\n\nActually according to the same page of the document (question 3):\n\"When climbing at a constant mach number below the tropopause through an inversion: \na. the CAS and TAS will both increase \nb. the CAS and TAS will both decrease \nc. the CAS will decrease and the TAS will increase \nd. the CAS will increase and the TAS will decrease\"\n\nHowever when an aircraft descends at constant Mach  through an inversion, the situation is opposite.\nAccording to the document, in an inversion the air temperature increases with altitude, so during descent  air density decreases,  if  TAS (which is constant at a constant Mach) is decreasing, then CAS must increase.\n\nSo the correct answer to your question:\nWhen an aircraft descends through an inversion at constant Mach, the CAS will INCREASE.",
+    "citations": [
+      "Instruments.pdf (Page 638)",
+      "Instruments.pdf (Page 98)",
+      "Instruments.pdf (Page 94)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 247)",
+      "Instruments.pdf (Page 93)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 27,
+    "type": "factual",
+    "question": "What primarily limits the range of a VHF navigation aid?",
+    "answer": "The primary limitation of the range of a VHF navigation aid is ionospheric and tropospheric refraction effects and terrain, which cause the received signal to \"bend\" and deviate, known as VOR scalloping (Source: 11-radio-navigation-2014.pdf, Page 123, and Figure 8.7 Designated Operational Coverage). \n\nFurther, propagation error, a result of terrain and distance from the VOR, affects the accuracy of the received signal (Source: 11-radio-navigation-2014.pdf, Page 123).\n\nAdditionally, site error, propagation error and equipment errors aggregate to give a total error of \u00b15\u00b0 (Source: 11-radio-navigation-2014.pdf, Page 123).",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 123)",
+      "11-radio-navigation-2014.pdf (Page 120)",
+      "11-radio-navigation-2014.pdf (Page 116)",
+      "11-radio-navigation-2014.pdf (Page 117)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 236)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 28,
+    "type": "factual",
+    "question": "Which type of icing is most hazardous to aircraft performance?",
+    "answer": "The type of icing most hazardous to aircraft performance is Severe Icing. \n\nAs per page 294 from Meteorology full book.pdf, \"Severe The rate of accumulation is such that de-icing/anti-icing equipment fails to reduce or control the hazard. Immediate diversion is necessary. (ICAO: conditions in which immediate change of heading and/or altitude is considered essential)\"\n\nSevere icing can cause loss of lift, increase in drag, increase in mass, freezing of control surfaces, and loss of engine power or total engine failure due to intake or carburettor icing, which can be very dangerous for aircraft performance.",
+    "citations": [
+      "Instruments.pdf (Page 31)",
+      "Meteorology full book.pdf (Page 300)",
+      "Meteorology full book.pdf (Page 296)",
+      "Meteorology full book.pdf (Page 301)",
+      "Meteorology full book.pdf (Page 298)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 29,
+    "type": "factual",
+    "question": "Which process transfers heat vertically in the atmosphere?",
+    "answer": "This process is called convection. As mentioned in the context of Meteorology full book.pdf, Page 67:\n\n\"Convection. Air heated by conduction will be less dense and will therefore rise. This will produce up currents called thermals or convection currents. These will take the warm air to higher levels in the troposphere.\"",
+    "citations": [
+      "Meteorology full book.pdf (Page 78)",
+      "Meteorology full book.pdf (Page 68)",
+      "Meteorology full book.pdf (Page 66)",
+      "Meteorology full book.pdf (Page 67)",
+      "Meteorology full book.pdf (Page 65)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 30,
+    "type": "factual",
+    "question": "What is the colour of runway threshold lights?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Instruments.pdf (Page 284)",
+      "Instruments.pdf (Page 15)",
+      "11-radio-navigation-2014.pdf (Page 219)",
+      "Meteorology full book.pdf (Page 282)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 537)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 31,
+    "type": "applied",
+    "question": "During an ILS approach, if required visual reference is not established at DA, what must the pilot do?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 347)",
+      "11-radio-navigation-2014.pdf (Page 164)",
+      "11-radio-navigation-2014.pdf (Page 161)",
+      "Instruments.pdf (Page 387)",
+      "11-radio-navigation-2014.pdf (Page 172)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 32,
+    "type": "applied",
+    "question": "An aircraft is converging with another at the same altitude and the other is on its right. What should it do?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Meteorology full book.pdf (Page 269)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 495)",
+      "10-General-Navigation-2014 (1).pdf (Page 178)",
+      "Meteorology full book.pdf (Page 642)",
+      "Instruments.pdf (Page 592)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 33,
+    "type": "applied",
+    "question": "A pilot holds a CPL. Can they act as PIC on a scheduled airline operation?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 231)",
+      "11-radio-navigation-2014.pdf (Page 241)",
+      "Instruments.pdf (Page 345)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 232)",
+      "Instruments.pdf (Page 332)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 34,
+    "type": "applied",
+    "question": "If flying in Class E airspace under IFR, does the pilot receive ATC separation from VFR traffic?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 160)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 311)",
+      "Meteorology full book.pdf (Page 550)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 238)",
+      "11-radio-navigation-2014.pdf (Page 337)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 35,
+    "type": "applied",
+    "question": "Wind shear is most hazardous during which phase of flight?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Meteorology full book.pdf (Page 263)",
+      "Meteorology full book.pdf (Page 586)",
+      "Meteorology full book.pdf (Page 193)",
+      "Meteorology full book.pdf (Page 262)",
+      "Meteorology full book.pdf (Page 125)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 36,
+    "type": "applied",
+    "question": "What weather is typically associated with an anticyclone?",
+    "answer": "According to the source document, Meteorology full book.pdf, Page 51 and Page 48, the weather typically associated with an anticyclone can be specified based on the type of anticyclone and the season. There are two types of anticyclones mentioned: warm anticyclones and cold anticyclones.\n\nWarm anticyclones in summer are associated with:\n- Cloud: None except on the edge of the anticyclone\n- Precipitation: None\n- Visibility: Generally moderate with haze\n- Temperature: Dependent on type\n- Winds: Light\n\nWarm anticyclones in winter are associated with:\n- Cloud: Extensive stratus with a low base and limited vertical extent\n- Precipitation: Possibly drizzle\n- Visibility: Generally moderate to poor with mist and fog likely\n- Temperature: Relatively warm\n- Winds: Light\n\nCold anticyclones (not explicitly stated but implied to be related to winter) are associated with, in terms of the broader context, over Europe, giving cold clear conditions.\n\nTherefore, based on the provided context, we can say that the weather typically associated with an anticyclone varies depending on whether it's a warm or cold anticyclone and the season, as described above.",
+    "citations": [
+      "Meteorology full book.pdf (Page 51)",
+      "Meteorology full book.pdf (Page 231)",
+      "Meteorology full book.pdf (Page 374)",
+      "Meteorology full book.pdf (Page 48)",
+      "Meteorology full book.pdf (Page 611)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 37,
+    "type": "applied",
+    "question": "What three conditions are required for a thunderstorm to form?",
+    "answer": "A lapse rate greater than the Standard Atmospheric Lapse Rate (SALR) through a layer at least 10 000\u2019 thick and extending above the freezing level, \nSufficient water vapour to form and maintain the cloud, \nTrigger action to produce early saturation, thus enhancing instability (Source: Meteorology full book.pdf, Page 237).",
+    "citations": [
+      "Meteorology full book.pdf (Page 252)",
+      "Meteorology full book.pdf (Page 262)",
+      "Meteorology full book.pdf (Page 240)",
+      "Meteorology full book.pdf (Page 237)",
+      "Meteorology full book.pdf (Page 261)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 38,
+    "type": "applied",
+    "question": "In an ICAO flight plan, how is planned cruising speed expressed?",
+    "answer": "In an ICAO flight plan, planned cruising speed is expressed as True Airspeed in terms of:\n\nKilometres per hour, expressed as K followed by 4 figures (e.g. K0830); \nor Knots, expressed as N followed by 4 figures (e.g. N0485); \nor Mach Number, when so prescribed by the appropriate ATS authority, to the nearest hundredth of unit Mach, expressed as M followed by 3 figures (e.g. M082).\n\n[Source: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 237]",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 237)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 313)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 213)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 128)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 310)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 39,
+    "type": "applied",
+    "question": "What is the primary purpose of aircraft accident investigation?",
+    "answer": "The primary purpose of aircraft accident investigation is to ensure that a full and proper investigation of the aircraft occurs, as mentioned on Page 260 of the source document \"Meteorology full book.pdf\".",
+    "citations": [
+      "Instruments.pdf (Page 545)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 24)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 23)",
+      "Meteorology full book.pdf (Page 9)",
+      "Meteorology full book.pdf (Page 260)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 40,
+    "type": "applied",
+    "question": "A warm front is approaching. What kind of weather and cloud should a pilot expect?",
+    "answer": "According to the given context, a warm front is approaching (Source: Meteorology full book.pdf, Page 316).\n\nAhead of a warm front (Source: Meteorology full book.pdf, Page 320, Figure 17.24), the weather and cloud expected are:\n- Surface W/V - Speed increasing, slight backing, usually southerly.\n- Temperature - Steady low.\n- Dew Point - Steady low.\n- Pressure - Steady fall.\n- Cloud - Increasing to 8/8, base lowering, Ci, Cs, As, Ns.\n- Precipitation - Light continuous from As becoming moderate to heavy continuous from Ns.\n- Visibility - Reducing to poor.\n\nAt the warm front (Source: Meteorology full book.pdf, Page 320, Figure 17.25), the weather and cloud expected are:\n- Surface W/V - Sharp veer.\n- Temperature - Sudden rise.\n- Dew Point - Sudden rise.\n- Pressure - Stops falling.\n- Cloud - 8/8, base very low, Ns, St.\n- Precipitation - Moderate or heavy continuous.\n- Visibility - Very poor, fog can occur.",
+    "citations": [
+      "Meteorology full book.pdf (Page 575)",
+      "Meteorology full book.pdf (Page 586)",
+      "Instruments.pdf (Page 31)",
+      "Meteorology full book.pdf (Page 316)",
+      "Meteorology full book.pdf (Page 320)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 41,
+    "type": "applied",
+    "question": "What causes Clear Air Turbulence and where is it most commonly found?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Meteorology full book.pdf (Page 113)",
+      "Meteorology full book.pdf (Page 120)",
+      "Meteorology full book.pdf (Page 116)",
+      "Meteorology full book.pdf (Page 122)",
+      "Meteorology full book.pdf (Page 124)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 42,
+    "type": "applied",
+    "question": "What geodetic factor causes the difference between geodetic and geocentric latitude?",
+    "answer": "The geodetic factor that causes the difference between geodetic and geocentric latitude is the oblate shape of the Earth, which is flattened at the poles. As a result, the radius of curvature is increased, and a greater arc is required to subtend an angle of one minute at the centre of curvature. This can be seen on Page 36 of the source document:\n\n\"...the longer the nautical mile, and this would be true if we used geocentric latitude. However, our system of latitude and longitude is based on geodetic, not geocentric, latitude. Because the Earth is flattened at the Poles, the radius of curvature is increased and a greater arc is required to subtend an angle of one minute at the centre of curvature, hence a nautical mile is slightly longer in the Polar regions.\"",
+    "citations": [
+      "10-General-Navigation-2014 (1).pdf (Page 7)",
+      "10-General-Navigation-2014 (1).pdf (Page 14)",
+      "10-General-Navigation-2014 (1).pdf (Page 36)",
+      "10-General-Navigation-2014 (1).pdf (Page 16)",
+      "10-General-Navigation-2014 (1).pdf (Page 17)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 43,
+    "type": "applied",
+    "question": "An aircraft enters an inversion layer at constant Mach. Explain the effect on CAS and why.",
+    "answer": "[Source: Instruments.pdf, Page 93]\n\nWhen an aircraft enters an inversion layer at constant Mach, the temperature of the air increases as altitude increases. In the ISA, during a climb at constant Mach number, TAS will increase and CAS will reduce due to the decrease in air density. However, in an inversion, the temperature is increasing and therefore the speed of sound is also increasing, but the air is still becoming less dense as altitude increases. When descending at constant Mach number, TAS will increase and CAS will also increase at a greater rate due to the increase in air density.\n\nHowever, in an inversion layer while maintaining constant Mach, it is stated in the context of the same document that 'The CAS will reduce as air density reduces.'",
+    "citations": [
+      "Instruments.pdf (Page 638)",
+      "Instruments.pdf (Page 98)",
+      "Instruments.pdf (Page 94)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 247)",
+      "Instruments.pdf (Page 93)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 44,
+    "type": "applied",
+    "question": "A pilot loses all navigation aids in IMC. What documents should guide emergency procedures?",
+    "answer": "This information is not available in the provided document(s), however the related document [Source: 7-Flight-Planning-and-Monitoring-2014.pdf, Page 118] and page 9 discuss Air Information Publications which contains information on navigation which might be the starting point, but does not directly answer how to handle emergency procedures in case of loss of navigation aids in IMC conditions.\n\nHowever another related but not mentioned source in the provided documents might be the ICAO Manual on Search and Rescue which is mentioned in question 1 on Page 24 of [Source: 7-Flight-Planning-and-Monitoring-2014.pdf], and the ICAO Document Search and Rescue, Annex 12, also mentioned on Page 24 of [Source: 7-Flight-Planning-and-Monitoring-2014.pdf].",
+    "citations": [
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 118)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 24)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 9)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 25)",
+      "Instruments.pdf (Page 332)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 45,
+    "type": "applied",
+    "question": "Explain why GNSS requires a minimum of 4 satellites rather than 3.",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 316)",
+      "11-radio-navigation-2014.pdf (Page 318)",
+      "11-radio-navigation-2014.pdf (Page 310)",
+      "11-radio-navigation-2014.pdf (Page 357)",
+      "11-radio-navigation-2014.pdf (Page 330)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 46,
+    "type": "reasoning",
+    "question": "Compare the hazards of rime ice vs clear ice on aircraft performance.",
+    "answer": "This information is not available in the provided document(s).\n\nHowever, based on the context, we can see that there is a mention of \"clear ice\" in [Source: Meteorology full book.pdf, Page 301] and [Source: Meteorology full book.pdf, Page 292]. \n\n[Source: Meteorology full book.pdf, Page 292] mentions that \"Propeller icing can cause severe vibrations and as the ice adheres strongly, when it breaks off, the pieces can cause skin damage\" for clear ice. It also mentions that clear ice is a \"transparent form of ice formed by large supercooled water droplets\" and that \"there can be much flowback and the ice appears transparent because there is no air trapped under the flowback icing\". \n\nHowever, the context does not provide a comparison of the hazards of rime ice vs clear ice on aircraft performance.",
+    "citations": [
+      "Meteorology full book.pdf (Page 292)",
+      "Instruments.pdf (Page 31)",
+      "Meteorology full book.pdf (Page 296)",
+      "Meteorology full book.pdf (Page 301)",
+      "Meteorology full book.pdf (Page 298)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 47,
+    "type": "reasoning",
+    "question": "A flight is planned over the ocean. Explain why PNR is critical and what factors most affect it.",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "6-mass-and-balance-and-performance-2014.pdf (Page 129)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 93)",
+      "Meteorology full book.pdf (Page 648)",
+      "Meteorology full book.pdf (Page 601)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 79)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 48,
+    "type": "reasoning",
+    "question": "Explain the relationship between dew point, relative humidity and fog formation.",
+    "answer": "The relationship between dew point, relative humidity, and fog formation can be explained as follows:\n\nAccording to [Source: Meteorology full book.pdf, Page 278], freezing fog forms when the air temperature is below 0\u00b0C and the dew point is below 0\u00b0C. The Bergeron theory tells us that at temperatures below 0\u00b0C, the air becomes saturated for the formation of ice before it becomes saturated for the formation of water. Hence, water vapour will go directly to the solid state at these temperatures.\n\nHowever, if the dew point is below 0\u00b0C, condensation will take place producing supercooled water droplets. These droplets will then freeze on contact with a solid object giving hoar frost (or rime ice). Freezing fog will also occur when the dew point is above 0\u00b0C, forming fog but the air then cools to a temperature less than 0\u00b0C.\n\nAdvection fog forms when warm moist air moves over a surface and is cooled below its dew point [Source: Meteorology full book.pdf, Page 284], which is likely to create fog conditions.\n\nIce fog, on the other hand, forms in extremely low temperatures (usually below -40\u00b0C) when warm moist air is introduced into cold saturated air [Source: Meteorology full book.pdf, Page 286], typically the result of combustion in car engines.\n\nRadiation fog forms under clear dark nights with calm conditions. The relative humidity is high (close to saturation), and if the night is calm with clear skies, the ground rapidly loses heat through radiation, cooling the surface below the dew point. This is most likely to occur in autumn [Source: Meteorology full book.pdf, Page 86 and 286], under clear skies and calm conditions with a relative humidity close to saturation.\n\nFrontal fog forms at a warm front or occlusion when precipitation lowers the cloud base to the ground, mixing saturated air with non-saturated air below or evaporation of standing water on the ground [Source: Meteorology full book.pdf, Page 278].\n\nTherefore, the relationship between dew point, relative humidity, and fog formation can be summarized as:\n\n- High dew point close to temperature (below 0\u00b0C) and high relative humidity is likely to lead to freezing fog.\n- Low dew point (either below or above 0\u00b0C) and subsequent cooling or advection of moist air over a cooler surface leads to fog formation.\n- Radiation fog forms when there is a high relative humidity under calm clear conditions.\n- Advection fog forms when warm moist air flows over a cooler surface and cools below its dew point.\n-Ice fog forms in very low temperatures.",
+    "citations": [
+      "Meteorology full book.pdf (Page 89)",
+      "Meteorology full book.pdf (Page 286)",
+      "Meteorology full book.pdf (Page 284)",
+      "Meteorology full book.pdf (Page 86)",
+      "Meteorology full book.pdf (Page 278)"
+    ],
+    "refused": false,
+    "chunk_count": 5,
+    "retrieval_hit": true
+  },
+  {
+    "id": 49,
+    "type": "reasoning",
+    "question": "How does RVSM airspace reduce collision risk while increasing airspace capacity?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "Instruments.pdf (Page 421)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 160)",
+      "Instruments.pdf (Page 498)",
+      "Instruments.pdf (Page 484)",
+      "Instruments.pdf (Page 485)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  },
+  {
+    "id": 50,
+    "type": "reasoning",
+    "question": "Why is grounding an answer to a non-aviation question (like history or geography) important for an aviation AI system?",
+    "answer": "This information is not available in the provided document(s).",
+    "citations": [
+      "11-radio-navigation-2014.pdf (Page 3)",
+      "7-Flight-Planning-and-Monitoring-2014.pdf (Page 3)",
+      "10-General-Navigation-2014 (1).pdf (Page 3)",
+      "6-mass-and-balance-and-performance-2014.pdf (Page 3)",
+      "Instruments.pdf (Page 3)"
+    ],
+    "refused": true,
+    "chunk_count": 5,
+    "retrieval_hit": false
+  }
+]
